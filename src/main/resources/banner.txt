@@ -1,0 +1,24 @@
+                                                                                            
+               AAA                                   jjjj                                   
+              A:::A                                 j::::j                                  
+             A:::::A                                 jjjj                                   
+            A:::::::A                                                                       
+           A:::::::::A          rrrrr   rrrrrrrrr  jjjjjjjuuuuuu    uuuuuunnnn  nnnnnnnn    
+          A:::::A:::::A         r::::rrr:::::::::r j:::::ju::::u    u::::un:::nn::::::::nn  
+         A:::::A A:::::A        r:::::::::::::::::r j::::ju::::u    u::::un::::::::::::::nn 
+        A:::::A   A:::::A       rr::::::rrrrr::::::rj::::ju::::u    u::::unn:::::::::::::::n
+       A:::::A     A:::::A       r:::::r     r:::::rj::::ju::::u    u::::u  n:::::nnnn:::::n
+      A:::::AAAAAAAAA:::::A      r:::::r     rrrrrrrj::::ju::::u    u::::u  n::::n    n::::n
+     A:::::::::::::::::::::A     r:::::r            j::::ju::::u    u::::u  n::::n    n::::n
+    A:::::AAAAAAAAAAAAA:::::A    r:::::r            j::::ju:::::uuuu:::::u  n::::n    n::::n
+   A:::::A             A:::::A   r:::::r            j::::ju:::::::::::::::uun::::n    n::::n
+  A:::::A               A:::::A  r:::::r            j::::j u:::::::::::::::un::::n    n::::n
+ A:::::A                 A:::::A r:::::r            j::::j  uu::::::::uu:::un::::n    n::::n
+AAAAAAA                   AAAAAAArrrrrrr            j::::j    uuuuuuuu  uuuunnnnnn    nnnnnn
+                                                    j::::j                                  
+                                          jjjj      j::::j                                  
+                                         j::::jj   j:::::j                                  
+                                         j::::::jjj::::::j                                  
+                                          jj::::::::::::j                                   
+                                            jjj::::::jjj                                    
+                                               jjjjjj                                       
